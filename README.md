@@ -4,8 +4,8 @@
 <div align="center">
    <p>
        Esse projeto tem como objetivo fazer uma página clone da tela de login da riot, tendo algumas da suas funcionalidades.
-       E design mais pareciso possivel com sua versão atual <i>V63.0.5</i>. Com esse projeto eu pude adquirir conhecimentos <br/>
-       avançados de css e seus seletores além de tecnicas para ter um codigo mais limpo, manipulação do dom, eventos de focus, <br/>
+       E design mais pareciso possivel com sua versão atual <i>V63.0.5</i>. Com esse projeto eu pude adquirir conhecimentos 
+       avançados de css e seus seletores além de tecnicas para ter um codigo mais limpo, manipulação do dom, eventos de focus, 
        funções nativas de js, rensponsividade. 
    </p>
 </div>
