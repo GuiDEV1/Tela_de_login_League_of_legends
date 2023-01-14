@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lexend Deca', sans-serif;
-     overflow: hidden; 
+    overflow: hidden; 
 }
 
 /* Variaveis com as cores que serão usadas na página */
@@ -198,6 +198,31 @@ main {
     fill: var(--grey);
 }
 
+.footer {
+    display: flex;
+    align-items: center;
+}
+
+.footer-link {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer a {
+    text-align: center;
+}
+
+.footer span {
+    font-size: 0.8em;
+    color: var(--medium-grey);
+    margin-left: 22px;
+    cursor: pointer;
+}
+
+.footer span:hover {
+    color: var(--deep-grey);
+}
+
 .login_link {
     font-size: 0.8em;
     text-decoration: none;
@@ -207,9 +232,13 @@ main {
     font-weight: 700;
 }
 
+.login_link:hover {
+    color: var(--deep-grey);
+}
+
 .wallpaper {
     width: 100%;
-    background-image: url(imagens/walpapaper2.jpg);
+    background-image: url(imagens/walpapaper2.jpg); 
     background-size: cover;
     background-position: center right;
     flex: 1;
